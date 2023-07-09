@@ -1,5 +1,5 @@
 ### Hello! 👋 I'm Charles
-- 🔭 I’m currently working on using SVM and GBM to test the effectiveness of using mouse and widget dynamics fusion as a behaviorial biometric authentication measure at Clarkson University
+- 🔭 I’m currently working on using mouse and widget dynamics fusion as a behaviorial biometric authentication measure with SVM and GBM at Clarkson University
 - 🌱 I’m currently learning machine learning principles and Python libraries such as sci-kit learn, numpy, and pandas
 - 💬 Feel free to contact me with any project or job opportunities
 - 📫 How to reach me: devlencharles@gmail.com 
